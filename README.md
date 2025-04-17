@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CampusHirease](https://campushirease.com/)
 
-- 🌱 I’m currently learning **Springboot , Gen AI**
+- 🌱 I’m currently learning **MERN , Gen AI**
 
 - 💬 Ask me about **ML/AI, DSA, Competitive Programming**
 
